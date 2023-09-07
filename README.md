@@ -4,7 +4,7 @@ Repositorio dedicado a armazenar conteudos de estudo da pos graduação
 
 Aqui contem apenas conteudos pdf, das materias estudadas para revisão e relembrar o conhecimento.
 
-# Materias cursadas por ordem
+# Materias.
 
 - Conceitos gerais e principais abordagens de desenvolvimento do software;
 
